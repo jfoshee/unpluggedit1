@@ -8,7 +8,9 @@ group :development do
 	gem 'sqlite3'
 	gem 'sqlite3-ruby', :require => 'sqlite3'
 end
-	
+
+gem 'git'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
